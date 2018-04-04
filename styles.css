@@ -1,0 +1,7 @@
+.jumbotron {
+	background-image: url(https://i.ytimg.com/vi/Iz0Ny5ax7H4/maxresdefault.jpg);
+}
+
+h1, h2, small, .jumbotron {
+	text-align: center;
+}
